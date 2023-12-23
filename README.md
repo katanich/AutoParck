@@ -12,7 +12,7 @@
 1. Склонируйте репозиторий с GitHub:
 
    ```bash
-   git clone [https://github.com/vladislawwwwww/TelegramBotRgr.git](https://github.com/katanich/AutoParck)
+   git clone [https://github.com/katanich/AutoParck/blob/main/botest.py]
 
 2. Установите необходимые библиотеки
 
